@@ -61,9 +61,39 @@ Objective: Analyze customer satisfaction based on engagement and experience metr
 - **Sub-task 4.4**: Run k-means clustering on engagement and experience scores (k=2) and analyze clusters.
 - **Sub-task 4.5**: Aggregate average satisfaction and experience scores per cluster.
 ## Dashboard
-![images](my_streamlit_app/images/Screenshot 2024-09-11 144904.png)
-![images](my_streamlit_app/images/Screenshot 2024-09-11 175131.png)
-![images](my_streamlit_app\images\newplot (3).png)
-![images](C:\data science material\my project\my_streamlit_app\images\newplot (6).png)
-![images](C:\data science material\my project\my_streamlit_app\images\newplot (7).png)
-![images](my_streamlit_app/images/Screenshot 2024-09-11 181615.png)
+# Streamlit Dashboard
+
+This project involves creating a Streamlit dashboard to visualize and analyze customer satisfaction, experience, and engagement scores.
+
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](my_streamlit_app/images/Screenshot%202024-09-11%20144904.png)
+
+### Regression Analysis
+
+![Regression Analysis](my_streamlit_app/images/Screenshot%202024-09-11%20175131.png)
+
+### Scatter Plot
+
+![Scatter Plot](my_streamlit_app/images/newplot%20(3).png)
+
+### Bar Chart
+
+![Bar Chart](my_streamlit_app/images/newplot%20(6).png)
+
+### Pie Chart
+
+![Pie Chart](my_streamlit_app/images/newplot%20(7).png)
+
+### Detailed View
+
+![Detailed View](my_streamlit_app/images/Screenshot%202024-09-11%20181615.png)
+
+## Project Structure
+
+- `my_streamlit_app/`: Contains the Streamlit application code and assets.
+  - `images/`: Directory containing images used in the README.
+  - `main.py`: Main Streamlit application script.
+
